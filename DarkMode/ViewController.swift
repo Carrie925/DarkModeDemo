@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         self.title = "Dark Mode Demo"
+        print("test")
     }
 
     @IBAction func colorBtnClicked(_ sender: UIButton) {
